@@ -1,0 +1,2 @@
+# bt
+onekey install bt
